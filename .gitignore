@@ -1,2 +1,5 @@
 todo.txt
 tmp/
+
+*.log
+imagens/*.bmp
